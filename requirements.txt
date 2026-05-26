@@ -7,3 +7,5 @@ langchain-openai
 openai
 pydantic
 groq
+sentence-transformers
+torch
