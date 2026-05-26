@@ -1,6 +1,8 @@
-streamlit
-langchain-community
-langchain-text-splitters
-chromadb
-sentence-transformers
-groq
+protobuf==4.25.3
+chromadb==0.5.0
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.45
+streamlit==1.33.0
+openai==1.23.6
+pydantic==2.7.0
